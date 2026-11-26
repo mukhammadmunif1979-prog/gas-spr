@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GasSheet SPR</string>
+    <string name="dashboard_header_title">Gas Usage Tracker</string>
+    <string name="dashboard_header_subtitle">SPR Pennar &amp; SPR Peanut • Pemakaian vs Target</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_input">Input</string>
+    <string name="nav_sheet">Sheet</string>
+    <string name="nav_excel">Excel</string>
+    <string name="kpi_target_gas">TARGET GAS (m³)</string>
+    <string name="kpi_actual_gas">AKTUAL GAS (m³)</string>
+    <string name="kpi_realization">REALISASI vs TARGET</string>
+    <string name="kpi_alarm">ALARM %</string>
+    <string name="kpi_units_under_target">UNIT ≤ TARGET</string>
+    <string name="chart_daily_title">Pemakaian gas harian: target vs aktual (m³)</string>
+    <string name="chart_daily_caption">Abu-abu = target  |  Hijau = aktual. Batang hijau lebih rendah berarti hemat.</string>
+    <string name="chart_alarm_title">Alarm % harian</string>
+    <string name="chart_model_title">Realisasi vs target per model</string>
+    <string name="chart_matrix_title">Matriks harian semua bin (makin hijau = makin banyak gas)</string>
+    <string name="chart_matrix_caption">Baris = bin (Pennar 1–39, Peanut 1–12). Kolom = tanggal. Tersedia di sheet Matriks_Harian.</string>
+    <string name="action_save_to_excel">Simpan &amp; Tulis ke Excel</string>
+    <string name="action_create_excel">Buat File .xlsx Baru</string>
+    <string name="action_import_excel">Buka / Impor .xlsx</string>
+    <string name="action_sync_excel">Sinkronkan Sekarang</string>
+    <string name="action_share_excel">Bagikan / Buka di Excel</string>
+</resources>

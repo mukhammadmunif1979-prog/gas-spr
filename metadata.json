@@ -1,0 +1,6 @@
+{
+  "name": "GasSheet SPR",
+  "description": "Aplikasi input data pemakaian gas SPR Pennar & SPR Peanut langsung ke file sheet Excel (.xlsx) lengkap dengan dashboard target vs aktual, alarm harian, dan matriks bin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
